@@ -1,0 +1,253 @@
+2025-04-24 05:49:01,621 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5050
+2025-04-24 05:49:01,621 - INFO - [33mPress CTRL+C to quit[0m
+2025-04-24 05:49:01,683 - INFO -  * Restarting with watchdog (windowsapi)
+2025-04-24 05:49:02,650 - WARNING -  * Debugger is active!
+2025-04-24 05:49:02,654 - INFO -  * Debugger PIN: 303-220-845
+2025-04-24 05:49:05,902 - INFO - Home route accessed
+2025-04-24 05:49:05,921 - INFO - 127.0.0.1 - - [24/Apr/2025 05:49:05] "GET / HTTP/1.1" 200 -
+2025-04-24 05:49:06,457 - INFO - 127.0.0.1 - - [24/Apr/2025 05:49:06] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2025-04-24 05:49:10,638 - INFO - Home route accessed
+2025-04-24 05:49:10,672 - INFO - Message received: https://www.youtube.com/watch?v=0oX_LWCamY0&list=RDU8F5G5wR1mk&index=5
+2025-04-24 05:49:10,679 - DEBUG - Attempting to acquire lock 2468215878352 on C:\Users\USER\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\tldextract\.suffix_cache\publicsuffix.org-tlds\de84b5ca2167d4c83e38fb162f2e8738.tldextract.json.lock
+2025-04-24 05:49:10,680 - DEBUG - Lock 2468215878352 acquired on C:\Users\USER\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\tldextract\.suffix_cache\publicsuffix.org-tlds\de84b5ca2167d4c83e38fb162f2e8738.tldextract.json.lock
+2025-04-24 05:49:10,691 - DEBUG - Attempting to release lock 2468215878352 on C:\Users\USER\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\tldextract\.suffix_cache\publicsuffix.org-tlds\de84b5ca2167d4c83e38fb162f2e8738.tldextract.json.lock
+2025-04-24 05:49:10,692 - DEBUG - Lock 2468215878352 released on C:\Users\USER\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\tldextract\.suffix_cache\publicsuffix.org-tlds\de84b5ca2167d4c83e38fb162f2e8738.tldextract.json.lock
+2025-04-24 05:49:14,825 - INFO -  * Detected change in 'C:\\Users\\USER\\AppData\\Local\\Packages\\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\\LocalCache\\local-packages\\Python311\\site-packages\\sklearn\\base.py', reloading
+2025-04-24 05:49:14,840 - INFO -  * Detected change in 'C:\\Users\\USER\\AppData\\Local\\Packages\\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\\LocalCache\\local-packages\\Python311\\site-packages\\sklearn\\neighbors\\_classification.py', reloading
+2025-04-24 05:49:14,849 - INFO -  * Detected change in 'C:\\Users\\USER\\AppData\\Local\\Packages\\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\\LocalCache\\local-packages\\Python311\\site-packages\\sklearn\\neighbors\\_base.py', reloading
+2025-04-24 05:49:14,887 - INFO - 127.0.0.1 - - [24/Apr/2025 05:49:14] "[35m[1mPOST / HTTP/1.1[0m" 500 -
+2025-04-24 05:49:14,894 - INFO -  * Detected change in 'C:\\Users\\USER\\AppData\\Local\\Packages\\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\\LocalCache\\local-packages\\Python311\\site-packages\\sklearn\\utils\\validation.py', reloading
+2025-04-24 05:49:15,012 - INFO - 127.0.0.1 - - [24/Apr/2025 05:49:15] "GET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1" 200 -
+2025-04-24 05:49:15,018 - INFO - 127.0.0.1 - - [24/Apr/2025 05:49:15] "GET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1" 200 -
+2025-04-24 05:49:15,049 - INFO - 127.0.0.1 - - [24/Apr/2025 05:49:15] "GET /?__debugger__=yes&cmd=resource&f=console.png&s=AA9BfeB7Ixbsq4Qis62Y HTTP/1.1" 200 -
+2025-04-24 05:49:15,055 - INFO - 127.0.0.1 - - [24/Apr/2025 05:49:15] "GET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1" 200 -
+2025-04-24 05:50:25,653 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5050
+2025-04-24 05:50:25,653 - INFO - [33mPress CTRL+C to quit[0m
+2025-04-24 05:50:25,659 - INFO -  * Restarting with watchdog (windowsapi)
+2025-04-24 05:50:26,648 - WARNING -  * Debugger is active!
+2025-04-24 05:50:26,652 - INFO -  * Debugger PIN: 303-220-845
+2025-04-24 05:50:28,648 - INFO - Home route accessed
+2025-04-24 05:50:28,653 - INFO - 127.0.0.1 - - [24/Apr/2025 05:50:28] "GET / HTTP/1.1" 200 -
+2025-04-24 05:50:35,227 - INFO - Home route accessed
+2025-04-24 05:50:35,230 - INFO - Message received: https://www.youtube.com/watch?v=0oX_LWCamY0&list=RDU8F5G5wR1mk&index=5
+2025-04-24 05:50:35,237 - DEBUG - Attempting to acquire lock 2488288609040 on C:\Users\USER\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\tldextract\.suffix_cache\publicsuffix.org-tlds\de84b5ca2167d4c83e38fb162f2e8738.tldextract.json.lock
+2025-04-24 05:50:35,239 - DEBUG - Lock 2488288609040 acquired on C:\Users\USER\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\tldextract\.suffix_cache\publicsuffix.org-tlds\de84b5ca2167d4c83e38fb162f2e8738.tldextract.json.lock
+2025-04-24 05:50:35,241 - DEBUG - Attempting to release lock 2488288609040 on C:\Users\USER\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\tldextract\.suffix_cache\publicsuffix.org-tlds\de84b5ca2167d4c83e38fb162f2e8738.tldextract.json.lock
+2025-04-24 05:50:35,242 - DEBUG - Lock 2488288609040 released on C:\Users\USER\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\tldextract\.suffix_cache\publicsuffix.org-tlds\de84b5ca2167d4c83e38fb162f2e8738.tldextract.json.lock
+2025-04-24 05:50:35,398 - INFO - 127.0.0.1 - - [24/Apr/2025 05:50:35] "[35m[1mPOST / HTTP/1.1[0m" 500 -
+2025-04-24 05:50:35,514 - INFO - 127.0.0.1 - - [24/Apr/2025 05:50:35] "[36mGET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+2025-04-24 05:50:35,520 - INFO - 127.0.0.1 - - [24/Apr/2025 05:50:35] "[36mGET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+2025-04-24 05:50:35,542 - INFO - 127.0.0.1 - - [24/Apr/2025 05:50:35] "GET /?__debugger__=yes&cmd=resource&f=console.png&s=5RYN31fcmRd0bLlT3c14 HTTP/1.1" 200 -
+2025-04-24 05:50:35,548 - INFO - 127.0.0.1 - - [24/Apr/2025 05:50:35] "[36mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+2025-04-24 05:50:51,178 - INFO -  * Detected change in 'c:\\Users\\USER\\Documents\\GitHub\\AIFinal\\server.py', reloading
+2025-04-24 05:51:00,635 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5050
+2025-04-24 05:51:00,635 - INFO - [33mPress CTRL+C to quit[0m
+2025-04-24 05:51:00,641 - INFO -  * Restarting with watchdog (windowsapi)
+2025-04-24 05:51:01,535 - WARNING -  * Debugger is active!
+2025-04-24 05:51:01,539 - INFO -  * Debugger PIN: 303-220-845
+2025-04-24 05:51:03,913 - INFO - Home route accessed
+2025-04-24 05:51:03,915 - INFO - Message received: https://www.youtube.com/watch?v=0oX_LWCamY0&list=RDU8F5G5wR1mk&index=5
+2025-04-24 05:51:03,925 - DEBUG - Attempting to acquire lock 2065500672848 on C:\Users\USER\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\tldextract\.suffix_cache\publicsuffix.org-tlds\de84b5ca2167d4c83e38fb162f2e8738.tldextract.json.lock
+2025-04-24 05:51:03,926 - DEBUG - Lock 2065500672848 acquired on C:\Users\USER\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\tldextract\.suffix_cache\publicsuffix.org-tlds\de84b5ca2167d4c83e38fb162f2e8738.tldextract.json.lock
+2025-04-24 05:51:03,929 - DEBUG - Attempting to release lock 2065500672848 on C:\Users\USER\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\tldextract\.suffix_cache\publicsuffix.org-tlds\de84b5ca2167d4c83e38fb162f2e8738.tldextract.json.lock
+2025-04-24 05:51:03,930 - DEBUG - Lock 2065500672848 released on C:\Users\USER\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\tldextract\.suffix_cache\publicsuffix.org-tlds\de84b5ca2167d4c83e38fb162f2e8738.tldextract.json.lock
+2025-04-24 05:51:04,070 - INFO - 127.0.0.1 - - [24/Apr/2025 05:51:04] "[35m[1mPOST / HTTP/1.1[0m" 500 -
+2025-04-24 05:51:04,166 - INFO - 127.0.0.1 - - [24/Apr/2025 05:51:04] "[36mGET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+2025-04-24 05:51:04,179 - INFO - 127.0.0.1 - - [24/Apr/2025 05:51:04] "[36mGET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+2025-04-24 05:51:04,186 - INFO - 127.0.0.1 - - [24/Apr/2025 05:51:04] "GET /?__debugger__=yes&cmd=resource&f=console.png&s=52Us2k0aawqdEgkiiy50 HTTP/1.1" 200 -
+2025-04-24 05:51:04,191 - INFO - 127.0.0.1 - - [24/Apr/2025 05:51:04] "[36mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+2025-04-24 05:51:07,817 - INFO - Home route accessed
+2025-04-24 05:51:07,817 - INFO - Message received: https://www.youtube.com/watch?v=0oX_LWCamY0&list=RDU8F5G5wR1mk&index=5
+2025-04-24 05:51:07,833 - INFO - 127.0.0.1 - - [24/Apr/2025 05:51:07] "[35m[1mPOST / HTTP/1.1[0m" 500 -
+2025-04-24 05:51:07,848 - INFO - 127.0.0.1 - - [24/Apr/2025 05:51:07] "[36mGET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+2025-04-24 05:51:07,849 - INFO - 127.0.0.1 - - [24/Apr/2025 05:51:07] "[36mGET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+2025-04-24 05:51:07,857 - INFO - 127.0.0.1 - - [24/Apr/2025 05:51:07] "[36mGET /?__debugger__=yes&cmd=resource&f=console.png&s=52Us2k0aawqdEgkiiy50 HTTP/1.1[0m" 304 -
+2025-04-24 05:51:07,862 - INFO - 127.0.0.1 - - [24/Apr/2025 05:51:07] "[36mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+2025-04-24 05:51:23,584 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5050
+2025-04-24 05:51:23,585 - INFO - [33mPress CTRL+C to quit[0m
+2025-04-24 05:51:23,590 - INFO -  * Restarting with watchdog (windowsapi)
+2025-04-24 05:51:24,496 - WARNING -  * Debugger is active!
+2025-04-24 05:51:24,500 - INFO -  * Debugger PIN: 303-220-845
+2025-04-24 05:51:27,634 - INFO - Home route accessed
+2025-04-24 05:51:27,638 - INFO - 127.0.0.1 - - [24/Apr/2025 05:51:27] "GET / HTTP/1.1" 200 -
+2025-04-24 05:51:29,191 - INFO - Home route accessed
+2025-04-24 05:51:29,194 - INFO - Message received: https://www.youtube.com/watch?v=0oX_LWCamY0&list=RDU8F5G5wR1mk&index=5
+2025-04-24 05:51:29,203 - DEBUG - Attempting to acquire lock 2444599701584 on C:\Users\USER\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\tldextract\.suffix_cache\publicsuffix.org-tlds\de84b5ca2167d4c83e38fb162f2e8738.tldextract.json.lock
+2025-04-24 05:51:29,204 - DEBUG - Lock 2444599701584 acquired on C:\Users\USER\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\tldextract\.suffix_cache\publicsuffix.org-tlds\de84b5ca2167d4c83e38fb162f2e8738.tldextract.json.lock
+2025-04-24 05:51:29,206 - DEBUG - Attempting to release lock 2444599701584 on C:\Users\USER\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\tldextract\.suffix_cache\publicsuffix.org-tlds\de84b5ca2167d4c83e38fb162f2e8738.tldextract.json.lock
+2025-04-24 05:51:29,206 - DEBUG - Lock 2444599701584 released on C:\Users\USER\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\tldextract\.suffix_cache\publicsuffix.org-tlds\de84b5ca2167d4c83e38fb162f2e8738.tldextract.json.lock
+2025-04-24 05:51:29,356 - INFO - 127.0.0.1 - - [24/Apr/2025 05:51:29] "[35m[1mPOST / HTTP/1.1[0m" 500 -
+2025-04-24 05:51:29,465 - INFO - 127.0.0.1 - - [24/Apr/2025 05:51:29] "[36mGET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+2025-04-24 05:51:29,472 - INFO - 127.0.0.1 - - [24/Apr/2025 05:51:29] "[36mGET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+2025-04-24 05:51:29,479 - INFO - 127.0.0.1 - - [24/Apr/2025 05:51:29] "GET /?__debugger__=yes&cmd=resource&f=console.png&s=dnbMiXOQHYNY7XBmJuyI HTTP/1.1" 200 -
+2025-04-24 05:51:29,484 - INFO - 127.0.0.1 - - [24/Apr/2025 05:51:29] "[36mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+2025-04-24 05:51:46,733 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5050
+2025-04-24 05:51:46,733 - INFO - [33mPress CTRL+C to quit[0m
+2025-04-24 05:51:46,741 - INFO -  * Restarting with watchdog (windowsapi)
+2025-04-24 05:51:47,670 - WARNING -  * Debugger is active!
+2025-04-24 05:51:47,674 - INFO -  * Debugger PIN: 303-220-845
+2025-04-24 05:51:51,942 - INFO - Home route accessed
+2025-04-24 05:51:51,945 - INFO - Message received: https://www.youtube.com/watch?v=0oX_LWCamY0&list=RDU8F5G5wR1mk&index=5
+2025-04-24 05:51:51,953 - DEBUG - Attempting to acquire lock 2503982652176 on C:\Users\USER\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\tldextract\.suffix_cache\publicsuffix.org-tlds\de84b5ca2167d4c83e38fb162f2e8738.tldextract.json.lock
+2025-04-24 05:51:51,954 - DEBUG - Lock 2503982652176 acquired on C:\Users\USER\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\tldextract\.suffix_cache\publicsuffix.org-tlds\de84b5ca2167d4c83e38fb162f2e8738.tldextract.json.lock
+2025-04-24 05:51:51,957 - DEBUG - Attempting to release lock 2503982652176 on C:\Users\USER\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\tldextract\.suffix_cache\publicsuffix.org-tlds\de84b5ca2167d4c83e38fb162f2e8738.tldextract.json.lock
+2025-04-24 05:51:51,960 - DEBUG - Lock 2503982652176 released on C:\Users\USER\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\tldextract\.suffix_cache\publicsuffix.org-tlds\de84b5ca2167d4c83e38fb162f2e8738.tldextract.json.lock
+2025-04-24 05:51:52,088 - INFO - [0]
+2025-04-24 05:51:52,105 - INFO -  * Detected change in 'C:\\Program Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0\\Lib\\netrc.py', reloading
+2025-04-24 05:51:52,107 - DEBUG - Starting new HTTPS connection (1): screenshotty1.p.rapidapi.com:443
+2025-04-24 05:52:03,148 - DEBUG - https://screenshotty1.p.rapidapi.com:443 "POST /api/v1/screenshot HTTP/1.1" 200 130
+2025-04-24 05:52:03,154 - INFO - Result Recorded
+2025-04-24 05:52:03,185 - INFO - 127.0.0.1 - - [24/Apr/2025 05:52:03] "POST / HTTP/1.1" 200 -
+2025-04-24 05:52:16,573 - INFO - Home route accessed
+2025-04-24 05:52:16,576 - INFO - Message received: https://www.chess.com/game/live/127386597341
+2025-04-24 05:52:18,428 - INFO - [0]
+2025-04-24 05:52:18,430 - DEBUG - Starting new HTTPS connection (1): screenshotty1.p.rapidapi.com:443
+2025-04-24 05:52:27,745 - DEBUG - https://screenshotty1.p.rapidapi.com:443 "POST /api/v1/screenshot HTTP/1.1" 200 130
+2025-04-24 05:52:27,752 - INFO - Result Recorded
+2025-04-24 05:52:27,784 - INFO - 127.0.0.1 - - [24/Apr/2025 05:52:27] "POST / HTTP/1.1" 200 -
+2025-04-24 05:53:13,974 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5050
+2025-04-24 05:53:13,975 - INFO - [33mPress CTRL+C to quit[0m
+2025-04-24 05:53:13,980 - INFO -  * Restarting with watchdog (windowsapi)
+2025-04-24 05:53:14,960 - WARNING -  * Debugger is active!
+2025-04-24 05:53:14,964 - INFO -  * Debugger PIN: 303-220-845
+2025-04-24 05:53:18,150 - INFO - Home route accessed
+2025-04-24 05:53:18,153 - INFO - 127.0.0.1 - - [24/Apr/2025 05:53:18] "GET / HTTP/1.1" 200 -
+2025-04-24 05:53:21,773 - INFO - Home route accessed
+2025-04-24 05:53:21,778 - INFO - Message received: https://www.youtube.com/watch?v=0oX_LWCamY0&list=RDU8F5G5wR1mk&index=5
+2025-04-24 05:53:21,798 - DEBUG - Attempting to acquire lock 2703699684432 on C:\Users\USER\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\tldextract\.suffix_cache\publicsuffix.org-tlds\de84b5ca2167d4c83e38fb162f2e8738.tldextract.json.lock
+2025-04-24 05:53:21,799 - DEBUG - Lock 2703699684432 acquired on C:\Users\USER\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\tldextract\.suffix_cache\publicsuffix.org-tlds\de84b5ca2167d4c83e38fb162f2e8738.tldextract.json.lock
+2025-04-24 05:53:21,801 - DEBUG - Attempting to release lock 2703699684432 on C:\Users\USER\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\tldextract\.suffix_cache\publicsuffix.org-tlds\de84b5ca2167d4c83e38fb162f2e8738.tldextract.json.lock
+2025-04-24 05:53:21,802 - DEBUG - Lock 2703699684432 released on C:\Users\USER\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\tldextract\.suffix_cache\publicsuffix.org-tlds\de84b5ca2167d4c83e38fb162f2e8738.tldextract.json.lock
+2025-04-24 05:53:21,927 - INFO - [0]
+2025-04-24 05:53:21,936 - DEBUG - Starting new HTTPS connection (1): screenshotty1.p.rapidapi.com:443
+2025-04-24 05:53:31,356 - DEBUG - https://screenshotty1.p.rapidapi.com:443 "POST /api/v1/screenshot HTTP/1.1" 200 130
+2025-04-24 05:53:31,361 - INFO - Result Recorded
+2025-04-24 05:53:31,379 - INFO - 127.0.0.1 - - [24/Apr/2025 05:53:31] "POST / HTTP/1.1" 200 -
+2025-04-24 05:55:27,913 - INFO -  * Detected change in 'c:\\Users\\USER\\Documents\\GitHub\\AIFinal\\server.py', reloading
+2025-04-24 05:55:27,915 - INFO -  * Detected change in 'c:\\Users\\USER\\Documents\\GitHub\\AIFinal\\server.py', reloading
+2025-04-24 05:55:38,266 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5050
+2025-04-24 05:55:38,266 - INFO - [33mPress CTRL+C to quit[0m
+2025-04-24 05:55:38,273 - INFO -  * Restarting with watchdog (windowsapi)
+2025-04-24 05:55:39,153 - WARNING -  * Debugger is active!
+2025-04-24 05:55:39,157 - INFO -  * Debugger PIN: 303-220-845
+2025-04-24 05:55:42,729 - INFO - Home route accessed
+2025-04-24 05:55:42,732 - INFO - 127.0.0.1 - - [24/Apr/2025 05:55:42] "GET / HTTP/1.1" 200 -
+2025-04-24 05:55:48,487 - INFO - Home route accessed
+2025-04-24 05:55:48,492 - INFO - Message received: https://www.chess.com/game/live/127210181253
+2025-04-24 05:55:48,501 - DEBUG - Attempting to acquire lock 2428203108624 on C:\Users\USER\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\tldextract\.suffix_cache\publicsuffix.org-tlds\de84b5ca2167d4c83e38fb162f2e8738.tldextract.json.lock
+2025-04-24 05:55:48,503 - DEBUG - Lock 2428203108624 acquired on C:\Users\USER\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\tldextract\.suffix_cache\publicsuffix.org-tlds\de84b5ca2167d4c83e38fb162f2e8738.tldextract.json.lock
+2025-04-24 05:55:48,505 - DEBUG - Attempting to release lock 2428203108624 on C:\Users\USER\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\tldextract\.suffix_cache\publicsuffix.org-tlds\de84b5ca2167d4c83e38fb162f2e8738.tldextract.json.lock
+2025-04-24 05:55:48,506 - DEBUG - Lock 2428203108624 released on C:\Users\USER\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\tldextract\.suffix_cache\publicsuffix.org-tlds\de84b5ca2167d4c83e38fb162f2e8738.tldextract.json.lock
+2025-04-24 05:55:52,615 - INFO - [1.]
+2025-04-24 05:55:52,623 - DEBUG - Starting new HTTPS connection (1): screenshotty1.p.rapidapi.com:443
+2025-04-24 05:56:02,688 - DEBUG - https://screenshotty1.p.rapidapi.com:443 "POST /api/v1/screenshot HTTP/1.1" 200 130
+2025-04-24 05:56:02,694 - INFO - Result Recorded
+2025-04-24 05:56:02,710 - INFO - 127.0.0.1 - - [24/Apr/2025 05:56:02] "POST / HTTP/1.1" 200 -
+2025-04-24 05:57:07,000 - INFO -  * Detected change in 'C:\\Users\\USER\\AppData\\Local\\Packages\\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\\LocalCache\\local-packages\\Python311\\site-packages\\IPython\\core\\interactiveshell.py', reloading
+2025-04-24 06:00:30,188 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5050
+2025-04-24 06:00:30,188 - INFO - [33mPress CTRL+C to quit[0m
+2025-04-24 06:00:30,194 - INFO -  * Restarting with watchdog (windowsapi)
+2025-04-24 06:00:31,109 - WARNING -  * Debugger is active!
+2025-04-24 06:00:31,113 - INFO -  * Debugger PIN: 303-220-845
+2025-04-24 06:00:35,239 - INFO - Home route accessed
+2025-04-24 06:00:35,244 - INFO - 127.0.0.1 - - [24/Apr/2025 06:00:35] "GET / HTTP/1.1" 200 -
+2025-04-24 06:00:40,596 - INFO - Home route accessed
+2025-04-24 06:00:40,599 - INFO - Message received: https://www.youtube.com/watch?v=d1feNJkFY8s&list=RDU8F5G5wR1mk&index=7
+2025-04-24 06:00:40,611 - DEBUG - Attempting to acquire lock 2287088833104 on C:\Users\USER\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\tldextract\.suffix_cache\publicsuffix.org-tlds\de84b5ca2167d4c83e38fb162f2e8738.tldextract.json.lock
+2025-04-24 06:00:40,612 - DEBUG - Lock 2287088833104 acquired on C:\Users\USER\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\tldextract\.suffix_cache\publicsuffix.org-tlds\de84b5ca2167d4c83e38fb162f2e8738.tldextract.json.lock
+2025-04-24 06:00:40,614 - DEBUG - Attempting to release lock 2287088833104 on C:\Users\USER\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\tldextract\.suffix_cache\publicsuffix.org-tlds\de84b5ca2167d4c83e38fb162f2e8738.tldextract.json.lock
+2025-04-24 06:00:40,614 - DEBUG - Lock 2287088833104 released on C:\Users\USER\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\tldextract\.suffix_cache\publicsuffix.org-tlds\de84b5ca2167d4c83e38fb162f2e8738.tldextract.json.lock
+2025-04-24 06:00:42,391 - INFO - [1.]
+2025-04-24 06:00:42,407 - INFO - 127.0.0.1 - - [24/Apr/2025 06:00:42] "[35m[1mPOST / HTTP/1.1[0m" 500 -
+2025-04-24 06:00:42,521 - INFO - 127.0.0.1 - - [24/Apr/2025 06:00:42] "[36mGET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+2025-04-24 06:00:42,528 - INFO - 127.0.0.1 - - [24/Apr/2025 06:00:42] "[36mGET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+2025-04-24 06:00:42,547 - INFO - 127.0.0.1 - - [24/Apr/2025 06:00:42] "GET /?__debugger__=yes&cmd=resource&f=console.png&s=TJa1sj5yb5uMOXwzxvgX HTTP/1.1" 200 -
+2025-04-24 06:00:42,553 - INFO - 127.0.0.1 - - [24/Apr/2025 06:00:42] "[36mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+2025-04-24 06:00:58,641 - INFO - Home route accessed
+2025-04-24 06:00:58,644 - INFO - Message received: https://www.chess.com/game/live/127386597341
+2025-04-24 06:00:58,816 - INFO - [1.]
+2025-04-24 06:00:58,824 - INFO - 127.0.0.1 - - [24/Apr/2025 06:00:58] "[35m[1mPOST / HTTP/1.1[0m" 500 -
+2025-04-24 06:00:58,845 - INFO - 127.0.0.1 - - [24/Apr/2025 06:00:58] "[36mGET /?__debugger__=yes&cmd=resource&f=style.css HTTP/1.1[0m" 304 -
+2025-04-24 06:00:58,846 - INFO - 127.0.0.1 - - [24/Apr/2025 06:00:58] "[36mGET /?__debugger__=yes&cmd=resource&f=debugger.js HTTP/1.1[0m" 304 -
+2025-04-24 06:00:58,858 - INFO - 127.0.0.1 - - [24/Apr/2025 06:00:58] "[36mGET /?__debugger__=yes&cmd=resource&f=console.png&s=TJa1sj5yb5uMOXwzxvgX HTTP/1.1[0m" 304 -
+2025-04-24 06:00:58,867 - INFO - 127.0.0.1 - - [24/Apr/2025 06:00:58] "[36mGET /?__debugger__=yes&cmd=resource&f=console.png HTTP/1.1[0m" 304 -
+2025-04-24 06:01:22,720 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5050
+2025-04-24 06:01:22,720 - INFO - [33mPress CTRL+C to quit[0m
+2025-04-24 06:01:22,725 - INFO -  * Restarting with watchdog (windowsapi)
+2025-04-24 06:01:23,594 - WARNING -  * Debugger is active!
+2025-04-24 06:01:23,598 - INFO -  * Debugger PIN: 303-220-845
+2025-04-24 06:01:26,950 - INFO - Home route accessed
+2025-04-24 06:01:26,954 - INFO - Message received: https://www.chess.com/game/live/127386597341
+2025-04-24 06:01:26,959 - DEBUG - Attempting to acquire lock 2107436370896 on C:\Users\USER\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\tldextract\.suffix_cache\publicsuffix.org-tlds\de84b5ca2167d4c83e38fb162f2e8738.tldextract.json.lock
+2025-04-24 06:01:26,960 - DEBUG - Lock 2107436370896 acquired on C:\Users\USER\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\tldextract\.suffix_cache\publicsuffix.org-tlds\de84b5ca2167d4c83e38fb162f2e8738.tldextract.json.lock
+2025-04-24 06:01:26,962 - DEBUG - Attempting to release lock 2107436370896 on C:\Users\USER\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\tldextract\.suffix_cache\publicsuffix.org-tlds\de84b5ca2167d4c83e38fb162f2e8738.tldextract.json.lock
+2025-04-24 06:01:26,963 - DEBUG - Lock 2107436370896 released on C:\Users\USER\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\tldextract\.suffix_cache\publicsuffix.org-tlds\de84b5ca2167d4c83e38fb162f2e8738.tldextract.json.lock
+2025-04-24 06:01:27,101 - INFO - [1.]
+2025-04-24 06:01:27,106 - DEBUG - Starting new HTTPS connection (1): screenshotty1.p.rapidapi.com:443
+2025-04-24 06:01:33,748 - INFO - Home route accessed
+2025-04-24 06:01:33,751 - INFO - Message received: https://www.chess.com/game/live/127386597341
+2025-04-24 06:01:33,794 - INFO - [1.]
+2025-04-24 06:01:33,796 - DEBUG - Starting new HTTPS connection (1): screenshotty1.p.rapidapi.com:443
+2025-04-24 06:01:36,913 - DEBUG - https://screenshotty1.p.rapidapi.com:443 "POST /api/v1/screenshot HTTP/1.1" 200 130
+2025-04-24 06:01:36,920 - INFO - Result Recorded
+2025-04-24 06:01:36,945 - INFO - 127.0.0.1 - - [24/Apr/2025 06:01:36] "POST / HTTP/1.1" 200 -
+2025-04-24 06:01:42,529 - DEBUG - https://screenshotty1.p.rapidapi.com:443 "POST /api/v1/screenshot HTTP/1.1" 200 130
+2025-04-24 06:01:42,537 - INFO - Result Recorded
+2025-04-24 06:01:42,552 - INFO - 127.0.0.1 - - [24/Apr/2025 06:01:42] "POST / HTTP/1.1" 200 -
+2025-04-24 06:03:50,601 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5050
+2025-04-24 06:03:50,601 - INFO - [33mPress CTRL+C to quit[0m
+2025-04-24 06:03:50,606 - INFO -  * Restarting with watchdog (windowsapi)
+2025-04-24 06:03:51,468 - WARNING -  * Debugger is active!
+2025-04-24 06:03:51,472 - INFO -  * Debugger PIN: 303-220-845
+2025-04-24 06:03:54,129 - INFO - Home route accessed
+2025-04-24 06:03:54,136 - INFO - 127.0.0.1 - - [24/Apr/2025 06:03:54] "GET / HTTP/1.1" 200 -
+2025-04-24 06:03:58,710 - INFO - Home route accessed
+2025-04-24 06:03:58,713 - INFO - Message received: https://www.youtube.com/watch?v=eVli-tstM5E&list=RDU8F5G5wR1mk&index=8
+2025-04-24 06:03:58,725 - DEBUG - Attempting to acquire lock 1431432983248 on C:\Users\USER\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\tldextract\.suffix_cache\publicsuffix.org-tlds\de84b5ca2167d4c83e38fb162f2e8738.tldextract.json.lock
+2025-04-24 06:03:58,727 - DEBUG - Lock 1431432983248 acquired on C:\Users\USER\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\tldextract\.suffix_cache\publicsuffix.org-tlds\de84b5ca2167d4c83e38fb162f2e8738.tldextract.json.lock
+2025-04-24 06:03:58,729 - DEBUG - Attempting to release lock 1431432983248 on C:\Users\USER\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\tldextract\.suffix_cache\publicsuffix.org-tlds\de84b5ca2167d4c83e38fb162f2e8738.tldextract.json.lock
+2025-04-24 06:03:58,730 - DEBUG - Lock 1431432983248 released on C:\Users\USER\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\tldextract\.suffix_cache\publicsuffix.org-tlds\de84b5ca2167d4c83e38fb162f2e8738.tldextract.json.lock
+2025-04-24 06:04:02,542 - INFO - [1.]
+2025-04-24 06:04:02,547 - DEBUG - Starting new HTTPS connection (1): screenshotty1.p.rapidapi.com:443
+2025-04-24 06:04:13,436 - DEBUG - https://screenshotty1.p.rapidapi.com:443 "POST /api/v1/screenshot HTTP/1.1" 200 130
+2025-04-24 06:04:13,444 - INFO - Result Recorded
+2025-04-24 06:04:13,466 - INFO - 127.0.0.1 - - [24/Apr/2025 06:04:13] "POST / HTTP/1.1" 200 -
+2025-04-24 06:04:25,016 - INFO - Home route accessed
+2025-04-24 06:04:25,018 - INFO - Message received: http://175.107.15.96:57007/bin.sh
+2025-04-24 06:04:25,049 - INFO - [1.]
+2025-04-24 06:04:25,052 - DEBUG - Starting new HTTPS connection (1): screenshotty1.p.rapidapi.com:443
+2025-04-24 06:04:27,926 - DEBUG - https://screenshotty1.p.rapidapi.com:443 "POST /api/v1/screenshot HTTP/1.1" 400 72
+2025-04-24 06:04:27,927 - INFO - Failed to get image for http://175.107.15.96:57007/bin.sh: 400
+2025-04-24 06:04:27,936 - INFO - Result Recorded
+2025-04-24 06:04:27,955 - INFO - 127.0.0.1 - - [24/Apr/2025 06:04:27] "POST / HTTP/1.1" 200 -
+2025-04-24 06:06:26,545 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5050
+2025-04-24 06:06:26,545 - INFO - [33mPress CTRL+C to quit[0m
+2025-04-24 06:06:26,550 - INFO -  * Restarting with watchdog (windowsapi)
+2025-04-24 06:06:27,426 - WARNING -  * Debugger is active!
+2025-04-24 06:06:27,431 - INFO -  * Debugger PIN: 303-220-845
+2025-04-24 06:06:28,611 - INFO - Home route accessed
+2025-04-24 06:06:28,614 - INFO - 127.0.0.1 - - [24/Apr/2025 06:06:28] "GET / HTTP/1.1" 200 -
+2025-04-24 06:06:33,642 - INFO - Home route accessed
+2025-04-24 06:06:33,649 - INFO - Message received: https://www.google.com/search?q=samsung+galaxy&sca_esv=92dcb7bc0db55c59&sxsrf=ADLYWIIbdexL6oVCPmFdrhJmrnwJbra0DQ%3A1733706305655&source=hp&ei=QUJWZ7XKJa2OseMPrZ74SA&iflsig=AL9hbdgAAAAAZ1ZQUUXr_lI9i2689LMhR9ptJXeolMqt&ved=0ahUKEwj17vajv5mKAxUtR2wGHS0PHgkQ4dUDCB0&oq=sa&gs_lp=Egdnd3Mtd2l6GgIYAyICc2EqAggEMgoQIxiABBgnGIoFMgQQIxgnMgQQIxgnMg4QLhiABBixAxjRAxjHATILEAAYgAQYsQMYiwMyCBAAGIAEGLEDMgsQABiABBixAxiLAzIREC4YgAQYsQMYxwEYigUYrwEyCxAAGIAEGLEDGIMBMggQLhiABBixA0iOEFBxWIABcAF4AJABAJgBUaABogGqAQEyuAEByAEA-AEBmAIDoAKuAagCCsICBxAjGCcY6gLCAg4QABiABBixAxiDARiLA8ICERAuGIAEGLEDGNEDGIMBGMcBwgIOEC4YgAQYsQMYgwEYigXCAg4QABiABBixAxiDARiKBZgDCPEFcuC5KM_ZCHKSBwEzoAeEHQ&sclient=gws-wiz
+2025-04-24 06:06:33,661 - DEBUG - Attempting to acquire lock 2130318003536 on C:\Users\USER\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\tldextract\.suffix_cache\publicsuffix.org-tlds\de84b5ca2167d4c83e38fb162f2e8738.tldextract.json.lock
+2025-04-24 06:06:33,663 - DEBUG - Lock 2130318003536 acquired on C:\Users\USER\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\tldextract\.suffix_cache\publicsuffix.org-tlds\de84b5ca2167d4c83e38fb162f2e8738.tldextract.json.lock
+2025-04-24 06:06:33,666 - DEBUG - Attempting to release lock 2130318003536 on C:\Users\USER\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\tldextract\.suffix_cache\publicsuffix.org-tlds\de84b5ca2167d4c83e38fb162f2e8738.tldextract.json.lock
+2025-04-24 06:06:33,667 - DEBUG - Lock 2130318003536 released on C:\Users\USER\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\tldextract\.suffix_cache\publicsuffix.org-tlds\de84b5ca2167d4c83e38fb162f2e8738.tldextract.json.lock
+2025-04-24 06:06:35,747 - INFO - [0.8]
+2025-04-24 06:06:35,751 - DEBUG - Starting new HTTPS connection (1): screenshotty1.p.rapidapi.com:443
+2025-04-24 06:06:43,627 - DEBUG - https://screenshotty1.p.rapidapi.com:443 "POST /api/v1/screenshot HTTP/1.1" 200 130
+2025-04-24 06:06:43,636 - INFO - Result Recorded
+2025-04-24 06:06:43,662 - INFO - 127.0.0.1 - - [24/Apr/2025 06:06:43] "POST / HTTP/1.1" 200 -
+2025-04-24 06:07:54,775 - INFO -  * Detected change in 'c:\\Users\\USER\\Documents\\GitHub\\AIFinal\\server.py', reloading
+2025-04-24 06:07:54,776 - INFO -  * Detected change in 'c:\\Users\\USER\\Documents\\GitHub\\AIFinal\\server.py', reloading
